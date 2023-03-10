@@ -1,6 +1,7 @@
 'use strict';
 let score = 0
 
+// change
 let userName = prompt('What is your name?').toLowerCase();
 function lab4(){
   console.log(userName);
