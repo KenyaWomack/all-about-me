@@ -1,5 +1,5 @@
 'use strict';
-let score = 0
+let score = 0;
 let userName = prompt('What is your name?').toLowerCase();
 console.log(userName);
 
