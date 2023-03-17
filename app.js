@@ -76,6 +76,10 @@ function lab4(){
     if (QuestionSix > myKids) {
       alert('Oops, too high, please try again');
     }
+
+    else if (QuestionSix < myKids) {
+      alert('Oops, too low, please try again');
+    }
     attempts--;
   }
 
